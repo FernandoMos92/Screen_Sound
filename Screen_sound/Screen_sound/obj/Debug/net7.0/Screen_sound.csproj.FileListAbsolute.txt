@@ -1,0 +1,15 @@
+C:\Users\ferna\source\repos\Screen_Sound\Screen_sound\Screen_sound\bin\Debug\net7.0\Screen_sound.exe
+C:\Users\ferna\source\repos\Screen_Sound\Screen_sound\Screen_sound\bin\Debug\net7.0\Screen_sound.deps.json
+C:\Users\ferna\source\repos\Screen_Sound\Screen_sound\Screen_sound\bin\Debug\net7.0\Screen_sound.runtimeconfig.json
+C:\Users\ferna\source\repos\Screen_Sound\Screen_sound\Screen_sound\bin\Debug\net7.0\Screen_sound.dll
+C:\Users\ferna\source\repos\Screen_Sound\Screen_sound\Screen_sound\bin\Debug\net7.0\Screen_sound.pdb
+C:\Users\ferna\source\repos\Screen_Sound\Screen_sound\Screen_sound\obj\Debug\net7.0\Screen_sound.csproj.AssemblyReference.cache
+C:\Users\ferna\source\repos\Screen_Sound\Screen_sound\Screen_sound\obj\Debug\net7.0\Screen_sound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\source\repos\Screen_Sound\Screen_sound\Screen_sound\obj\Debug\net7.0\Screen_sound.AssemblyInfoInputs.cache
+C:\Users\ferna\source\repos\Screen_Sound\Screen_sound\Screen_sound\obj\Debug\net7.0\Screen_sound.AssemblyInfo.cs
+C:\Users\ferna\source\repos\Screen_Sound\Screen_sound\Screen_sound\obj\Debug\net7.0\Screen_sound.csproj.CoreCompileInputs.cache
+C:\Users\ferna\source\repos\Screen_Sound\Screen_sound\Screen_sound\obj\Debug\net7.0\Screen_sound.dll
+C:\Users\ferna\source\repos\Screen_Sound\Screen_sound\Screen_sound\obj\Debug\net7.0\refint\Screen_sound.dll
+C:\Users\ferna\source\repos\Screen_Sound\Screen_sound\Screen_sound\obj\Debug\net7.0\Screen_sound.pdb
+C:\Users\ferna\source\repos\Screen_Sound\Screen_sound\Screen_sound\obj\Debug\net7.0\Screen_sound.genruntimeconfig.cache
+C:\Users\ferna\source\repos\Screen_Sound\Screen_sound\Screen_sound\obj\Debug\net7.0\ref\Screen_sound.dll
